@@ -1,0 +1,440 @@
+fox | 狐狸
+giraffe | 长颈鹿
+eagle | 鹰
+wolf | 狼
+penguin | 企鹅
+care | 照顾；关心
+sandwich | 三明治
+snake | 蛇
+scary | 吓人的；恐怖的
+neck | 脖子
+guess | 猜测；估计
+shark | 鲨鱼
+whale | 鲸
+huge | 巨大的；极多的
+dangerous | 危险的；有危害的
+save | 救；储蓄；保存
+luck | 幸运，运气
+Thai | 泰国的；泰国人；泰语
+trunk | 象鼻
+pick | 捡；摘
+pick up | 拿起；举起
+carry | 拿；提
+playful | 爱嬉戏的；爱玩的
+swimmer | 游泳者
+one another | 互相
+look after | 照顾
+take care of | 照顾
+culture | 文化；文明
+however | 然而；不过
+danger | 危险
+in danger | 处于危险之中
+forest | 森林
+cut down | 砍伐；砍倒
+too many | 太多（+可数复数）
+too much | 太多（+不可数）
+kill | 杀死；弄死
+made of | 由……制成的
+ivory | 象牙
+friendly | 友好的
+quite | 相当；完全
+quite a | 相当；非常
+not...at all | 一点也不
+fur | (动物)厚软毛
+deaf | 聋的
+blind | 瞎的；失明的
+hearing | 听力；听觉
+Antarctica | 南极洲
+Africa | 非洲
+rule | 规则；规章
+order | 秩序；点菜
+follow | 遵循；跟随
+be late (for) | 迟到
+arrive | 到达
+on time | 准时
+hallway | 走廊
+uniform | 校服；制服
+litter | 乱扔；垃圾
+polite | 有礼貌的
+treat | 对待；招待；治疗
+respect | 尊敬
+if | 如果
+jacket | 夹克衫；短上衣
+have to | 不得不
+everything | 每件事
+lend | 借给；借出
+sweet | 糖果；甜的
+snack | 点心；小吃
+of course | 当然
+mobile | 可移动的
+mobile phone | 手机
+turn off | 关掉（水、电或煤气）
+queue | 队；行列
+jump the queue | 插队
+wait for | 等待
+just | 只是；正好
+leave | 离开；留下
+absent | 缺席的；不在的
+be absent from | 缺席；不在
+shh | 嘘（用以让别人安静下来）
+quietly | 轻声地；安静地
+belt | 安全带；腰带；皮带
+feed | 喂养；饲养
+noise | 声音；噪声
+unhappy | 不快乐的
+Dr (= doctor) | 博士；医生
+either | 也（用于否定词组后）
+practise | 训练；练习
+hang | 悬挂
+hang out | 闲逛；常去某处
+weekday | 工作日（周一至周五）
+awful | 糟糕的
+become | 成为
+better | 较好；较好地
+person | 人
+focus | 集中（注意力、精力等）；焦点
+focus on | 集中（注意力、精力等）于
+build | 创建；建造
+spirit | 精神；情绪
+think about | 思考
+relax | 放松；休息
+advice | 建议；意见
+understand | 理解；领会
+untidy | 不整洁的
+fit | 健康的；健壮的；适合
+baseball | 棒球（运动）
+glove | （手指分开的）手套
+mat | （运动用的）垫子
+rope | 绳子；粗绳
+jump rope | 跳绳用的绳子；跳绳（运动）
+racket | （网球、羽毛球等的）球拍
+hardly | 几乎不；几乎没有
+ever | 在任何时候；从来；曾经
+hardly ever | 几乎从不
+once | 一次；曾经
+twice | 两次；两倍
+mine | 我的（所有物）
+hers | 她的（所有物）
+maybe | 也许；大概
+well-used | 使用得多的
+practice | 练习；实践
+perfect | 完美的；极好的
+seldom | 很少；不常
+badminton | 羽毛球运动
+sometime | 在某个时候
+double | 双打；两倍；成双的；两倍的
+volleyball | 排球（运动）
+theirs | 他们的，她们的，它们的（所有物）
+over there | 在那边
+T-shirt | T恤衫
+belong | 应在（某处）
+belong to | 属于（某人）
+at the start | 开始；起初
+still | 还；仍然
+sleepy | 困倦的；想睡的
+instead | 代替
+group | 组；群
+skateboard | 滑板
+encourage | 鼓励；激励
+jog | 慢跑
+few | （表示否定的）很少的；几乎没有的
+a few | 少数；几个
+excuse | 原谅；宽恕
+excuse me | 劳驾；请原谅
+trick | 技巧，戏法
+succeed | 成功；达到目标
+skateboarding | 滑板运动
+goal | 目标；目的
+sit-up | 仰卧起坐
+work out | 锻炼
+app | 应用程序
+progress | 进步；进展
+match | 比赛；竞赛
+team | 队；组
+ours | 我们的（所有物）
+lose | 输掉；丢失
+teenager | 青少年（13岁至19岁之间）
+watermelon | 西瓜
+mutton | 羊肉
+cabbage | 卷心菜
+cookie | 曲奇饼
+onion | 洋葱；葱头
+dumpling | 饺子
+coffee | 咖啡
+bean | 豆
+chip | 炸薯条
+fish and chips | 炸鱼薯条
+salad | 沙拉；色拉
+porridge | 粥；麦片粥
+waiter | （男）服务员
+What about...? | ......怎么样？
+taste | 有......味道；尝；味道
+anything | 某物；任何事物
+dish | 一道菜；盘
+choice | 选择
+meal | 一餐所吃的食物；早（午、晚）餐
+pork | 猪肉
+strawberry | 草莓
+menu | 菜单
+customer | 顾客
+serve | 提供；服务
+waitress | 女服务员
+sir | 先生
+go with | 搭配；相配
+pear | 梨
+too much | 太多
+sugar | 糖
+improve | 改进；改善
+habit | 习惯
+fast food | 快餐
+salt | 盐
+fat | 脂肪；肥胖的
+put on | 增加
+weight | 体重；重量
+hamburger | 汉堡包
+cause | 造成；导致
+heart | 心脏；中心
+balanced | 均衡的；平衡的
+too...to | 太......以至于无法......
+energy | 能量
+after all | 毕竟
+away | 离开；在远处
+poor | 不好的；贫穷的；可怜的
+result | 后果；结果
+article | 文章；冠词
+common | 共同的；普通的
+among | 在……之中
+soft | 柔和的；柔软的
+soft drink | 软饮料（不含酒精）
+thirsty | 渴的
+Gongbao chicken | 宫保鸡丁
+America | 美国；美洲
+Dongpo pork | 东坡肉
+ride | 骑；旅程
+moment | 某个时刻；片刻；瞬间
+at the moment | 现在；此刻
+work on | 做；从事
+dragon | 龙
+festival | 节日
+hold | 拿着；抓住
+hold on | 别挂断电话；等一等
+voice | 嗓音；声音
+race | 比赛，竞赛
+darling | 亲爱的
+somebody | 某人；有人
+could | 能，可以
+message | 消息；信息
+take a message | 捎口信
+leave a message | 留个口信
+call back | 回电话
+kick | 踢；踹
+wow | 哇；呀
+online | 在线的
+shuttlecock | 羽毛球
+sight | 名胜；风景；视力
+exam | 考试
+hope | 希望
+forward | 向前
+look forward to | 希望
+skate | 滑冰
+happen | 发生
+zone | 地区；地带；区域
+time zone | 时区
+around the world | 世界各地
+right now | 现在；立刻
+rush | 冲；奔
+in a hurry | 匆忙
+shine | 发光；照耀；光亮
+brightly | 明亮地
+colourful | 色彩鲜艳的
+slowly | 缓慢地
+such | 这样的；那样的；这样（那样）的人或事物
+market | 市场
+side | 边；侧
+side by side | 并排
+subway | 地铁
+bright | 鲜艳的；明亮的；聪明的
+drop | 把……送至；落下；滴；下降
+drop off | （开车）把某人送到某处
+passenger | 乘客
+central | 中心的；中央的
+take part in | 参加
+tour | 旅行；旅游
+such as | 例如
+painting | 绘画作品；绘画；油画
+sunshine | 阳光
+drive | 开车；驾驶
+Dragon Boat Festival | 端午节
+rush hour | (上下班时的)交通高峰期
+rain or shine | 不论是雨或是晴；不管发生什么事
+affect | 影响
+dry | 干的；干旱的
+lightning | 闪电
+stormy | 有暴风雨（或暴风雪）的
+north | 北部；北；北方
+west | 西部；西；西方
+south | 南部；南；南方
+east | 东部；东；东方
+centre | 中心；中心点
+stay in | 待在家里；没有外出
+lucky | 运气好的；带来好运的
+lucky you | 你真幸运
+sunbathe | 沐日光浴；晒太阳
+some day | 将来；有朝一日
+temperature | 温度
+snowman | 雪人
+heavily | 大量地；沉重地
+snowy | 下雪的，雪白的
+beach volleyball | 沙滩排球
+high | 在高处；高的
+freezing | 极冷的；冰冻的
+tourist | 旅行者；观光客
+mount | （用于地名）山；山峰
+cloud | 云；云彩
+magical | 魔法的；神奇的
+rock | 岩石
+rest | 休息；剩余部分
+area | 场地；地区
+rest area | 休息区
+make progress | 取得进展
+although | 虽然；尽管
+in high spirits | 情绪高涨；兴高采烈
+experience | 经历；经验；经历
+through | 穿过；凭借
+glad | 高兴的
+peak | 山顶
+grey | 灰色的
+because of | 因为
+fog | 雾
+ground | 地面
+wet | 湿的
+tiring | 令人疲倦的；累人的
+seem | 似乎；好像
+sunlight | 阳光
+at the top | 在顶部；在顶端
+thought | 想法
+mountain | 山；高山
+end | 末尾；结束
+at the end | 最后；在末尾
+storm | 暴风雨；暴风雪
+pour | 倾倒；倒出
+wind | 风
+shout | 喊叫；呼喊
+run after | 追逐
+Mount Huangshan | 黄山
+Bright Peak | 光明顶
+meet up | 碰头；相聚
+museum | 博物馆
+exhibition | 展览
+direction | 方向
+terrible | 糟糕的
+trip | 旅行
+wastewater | 废水
+plant | 工厂
+into | 到……里面；进入
+remove | 移开；拿走
+piece | 片；块
+waste | 废弃物；浪费
+machine | 机器
+germ | 微生物；细菌
+step | 步骤；脚步
+used to | 过去常常（做）
+realize | 认识到；实现
+inside | 在……里面；在里面
+go on a trip | 去旅行
+process | 过程
+theatre | 戏院；剧场；电影院
+factory | 工厂
+actor | 演员
+gun | 枪
+try on | 试穿
+along | 沿着；顺着
+road | 道路
+create | 创造
+record | 记录
+skill | 技能
+write down | 写下；记下
+explore | 探索
+tent | 帐篷
+cucumber | 黄瓜
+from...to... | 从......到......
+straight | 直接；立即；笔直地；直的
+fill | 装满；盛满
+basket | 篮子；筐
+teach | 教
+branch | 分支；树枝
+leaf | 树叶
+finally | 最后
+think of | 考虑；想起
+grain | 谷物；谷粒
+fresh | 新鲜的
+certainly | 肯定地
+diary | 日记；日记本
+entry | （日记的）一则；入口
+agree | 赞成；同意
+agree with | 赞成；同意
+upon | 在……之上
+once upon a time | 从前；很久以前
+bite | 咬；咬伤
+bite through | 咬穿
+net | 网；网状物
+hunter | 猎人；搜寻者
+long ago | 很久以前
+promise | 承诺；保证；诺言
+war | 战争
+neighbour | 邻居
+wise | 明智的；高明的
+emperor | 皇帝
+lie | 撒谎；谎言
+pretend | 假装；伪装
+official | 官员；高级职员
+silly | 愚蠢的；傻的
+decide | 决定
+praise | 赞美；表扬
+afraid | 害怕的；担心的
+suddenly | 突然地；出乎意料地
+at first | 起初；最初
+truth | 真相；事实
+tell the truth | 说实话
+make money | 赚钱
+true | 符合事实的；真正的
+hate | 不喜欢；厌恶；讨厌
+get out | 逃脱；离开
+king | 君主；国王
+artist | 美术家；艺术家
+quickly | 快速地；很快
+smile | 微笑；笑容
+all over | 到处；遍及
+ugly | 丑陋的；难看的
+duckling | 小鸭子
+real | 真的；真正的
+laugh at | 嘲笑
+go away | 走开
+search | 寻找；搜寻
+search for | 寻找
+hen | 母鸡
+hopefully | 有希望地
+purr | （猫愉快时）发出呜呜声
+lay | 下（蛋）；放置；搁
+swan | 天鹅
+feather | 羽毛
+size | 尺寸；尺码
+dislike | 不喜欢；厌恶；不喜欢的事物
+only if | 只有
+fisherman | 渔夫
+fishing | 钓鱼；捕鱼
+come out | 出现；盛开
+genie | 妖怪；鬼
+die | 死亡；消失
+make a promise | 许下诺言
+someone | 某人；有人
+set | 使处于某种状况；使开始
+set...free | 释放
+rich | 富有的；富含……的
+powerful | 强大的；有影响力的
+anyone | 任何人；某个人
+ugly | 丑陋的；难看的
+instead of | 而不是；代替
+succeed in doing sth | 成功做成某事
+himself | 他自己，他本人
+in the end | 最后，终究
